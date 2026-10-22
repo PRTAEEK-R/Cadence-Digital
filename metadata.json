@@ -1,0 +1,8 @@
+{
+  "name": "Cadence Digital — Social Media & Creative Growth Agency",
+  "description": "Cadence Digital helps modern businesses build an unmistakable digital presence through content creation, strategic publishing, community management, analytics, and tailored marketing strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
